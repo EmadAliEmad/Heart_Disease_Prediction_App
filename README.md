@@ -23,26 +23,47 @@ The solution includes:
 * **Development Tools:** Jupyter Notebooks, VS Code
 * **Deployment:** Git, GitHub
 
+```markdown
+
 ## Project Structure
 
+```
+
 Heart_Disease_Project/
+
 ├── data/
+
 ├── deployment/
+
 ├── models/
+
 ├── notebooks/
+
 │   ├── 01_data_preprocessing.ipynb
+
 │   ├── 02_pca_analysis.ipynb
+
 │   ├── 03_feature_selection.ipynb
+
 │   ├── 04_supervised_learning.ipynb
+
 │   ├── 05_unsupervised_learning.ipynb
+
 │   └── 06_hyperparameter_tuning.ipynb
+
 ├── Screenshots/
+
 ├── ui/
+
 │   └── streamlit_app.py
+
 ├── .gitignore
+
 ├── app.py
+
 └── README.md
 
+```
 ## How to Run Locally
 
 To set up and run this project on your local machine, follow these steps:
