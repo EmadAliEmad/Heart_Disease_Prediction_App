@@ -24,22 +24,25 @@ The solution includes:
 * **Deployment:** Git, GitHub
 
 ## Project Structure
-Heart_Disease_Project/
-├── data/                                 # Contains the dataset used for training.
-├── deployment/                           # Files related to deployment (e.g., ngrok.exe, ngrok.yml if used).
-├── models/                               # Stores the trained machine learning model (best_svm_heart_disease_model.joblib).
-├── notebooks/                            # Jupyter notebooks detailing data analysis, model training, and evaluation.
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_pca_analysis.ipynb
-│   ├── 03_feature_selection.ipynb
-│   ├── 04_supervised_learning.ipynb
-│   ├── 05_unsupervised_learning.ipynb
-│   └── 06_hyperparameter_tuning.ipynb
-├── ui/                                   # Contains the Streamlit web application files.
-│   └── streamlit_app.py                  # The main Streamlit application script.
-├── .gitignore                            # Specifies intentionally untracked files to ignore.
-├── app.py                                # Main FastAPI application script (if API is used).
-└── README.md                             # Project documentation.
+
+Heart\_Disease\_Project/
+├── data/                                 \# Contains the dataset used for training.
+├── deployment/                           \# Files related to deployment (e.g., ngrok.exe, ngrok.yml if used).
+├── models/                               \# Stores the trained machine learning model (best\_svm\_heart\_disease\_model.joblib).
+├── notebooks/                            \# Jupyter notebooks detailing data analysis, model training, and evaluation.
+│   ├── 01\_data\_preprocessing.ipynb
+│   ├── 02\_pca\_analysis.ipynb
+│   ├── 03\_feature\_selection.ipynb
+│   ├── 04\_supervised\_learning.ipynb
+│   ├── 05\_unsupervised\_learning.ipynb
+│   └── 06\_hyperparameter\_tuning.ipynb
+├── Screenshots/                          \# Contains images for the README.md (e.g., Streamlit UI, prediction results).
+├── ui/                                   \# Contains the Streamlit web application files.
+│   └── streamlit\_app.py                  \# The main Streamlit application script.
+├── .gitignore                            \# Specifies intentionally untracked files to ignore.
+├── app.py                                \# Main FastAPI application script (if API is used).
+└── README.md                             \# Project documentation.
+
 
 ## How to Run Locally
 
