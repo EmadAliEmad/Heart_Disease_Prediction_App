@@ -23,7 +23,6 @@ The solution includes:
 * **Development Tools:** Jupyter Notebooks, VS Code
 * **Deployment:** Git, GitHub
 
-```markdown
 
 ## Project Structure
 
