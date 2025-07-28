@@ -119,7 +119,6 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-*(Note: You might need to create a simple LICENSE file in your root directory if you want to include it. A common MIT license file can be found online.)*
 
 ## Connect with Me
 
