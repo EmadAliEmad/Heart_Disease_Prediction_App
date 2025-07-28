@@ -88,13 +88,8 @@ To set up and run this project on your local machine, follow these steps:
         source venv/bin/activate
         ```
 
-4.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Note: You might need to create a `requirements.txt` file first if you haven't already. You can generate it by running `pip freeze > requirements.txt` in your activated virtual environment).*
 
-5.  **Run the Streamlit Application:**
+4.  **Run the Streamlit Application:**
     ```bash
     streamlit run ui/streamlit_app.py
     ```
