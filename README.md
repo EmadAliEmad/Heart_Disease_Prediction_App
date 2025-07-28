@@ -104,14 +104,15 @@ To set up and run this project on your local machine, follow these steps:
 
 Here are some screenshots of the Heart Disease Prediction App in action:
 
+
 ### Streamlit User Interface
-![Streamlit Interface](Screenshots/Streamlit%20Interface.png)
+![Streamlit Interface](Screens/Streamlit%20Interface.png)
 
 ### Input Parameters
-![Input Parameters](Screenshots/Testing%20the%20labels.png)
+![Input Parameters](Screens/Testing%20the%20labels.png)
 
 ### Prediction Result
-![Prediction Result](Screenshots/Testing%20result.png)
+![Prediction Result](Screens/Testing%20result.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
